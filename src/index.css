@@ -1,0 +1,17 @@
+:root {
+  color-scheme: light dark;
+  font: 16px/145% system-ui, "Segoe UI", Roboto, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+}
+
+#root {
+  min-height: 100svh;
+}
